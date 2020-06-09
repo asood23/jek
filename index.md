@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2020/06/09/safety-pin-390364_1280.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Novel Wire Products
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -22,9 +22,10 @@ textline: |
 
   Ora et Labora
 hero_button:
-  text: Learn more
+  text: Shop Now
   href: "/about"
 show_news: true
+show_staff: false
 menu:
   footer:
     identifier: _projects
